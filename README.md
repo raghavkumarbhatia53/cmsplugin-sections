@@ -1,3 +1,7 @@
+Hello everyone 
+
+How are you?
+
 cmsplugin-sections
 ==================
 
